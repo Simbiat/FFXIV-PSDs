@@ -1,2 +1,2 @@
 # FFXIV-PSDs
- PSD files for some graphics customized for simbiat.ru/fftracker
+ PSD files for some graphics customized for simbiat.dev/fftracker
